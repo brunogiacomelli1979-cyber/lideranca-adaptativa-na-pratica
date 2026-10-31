@@ -6,7 +6,7 @@ Uma apostila ilustrada em português para compreender desafios adaptativos e apl
 
 **[📘 Ler ou baixar a apostila em PDF](docs/Lideranca_Adaptativa_Apostila_Ilustrada.pdf)**
 
-![Capa da apostila Liderança adaptativa na prática](assets/capa.png)
+<img src="assets/capa.png" alt="Capa da apostila Liderança adaptativa na prática" width="320">
 
 ## O que você encontra
 
